@@ -73,18 +73,18 @@ Python 3 code to reproduce the figures in the books [Probabilistic Machine Learn
 
 Test your knowledge and skills with these practice problems:
 
-- [ ]**[Berkley CS 189 Machine Learning Previous Year Questions and Solutions](https://tbp.berkeley.edu/courses/cs/189/)**
-- [ ]**[Learning from Data Homework Caltech: MCQ Questions and Solutions](https://home.work.caltech.edu/homeworks.html)**
+- **[Berkley CS 189 Machine Learning Previous Year Questions and Solutions](https://tbp.berkeley.edu/courses/cs/189/)**
+- **[Learning from Data Homework Caltech: MCQ Questions and Solutions](https://home.work.caltech.edu/homeworks.html)**
 
 
-- [x][UNIVERSITY of PENNSYLVANIA CIS 520: Machine Learning; MCQ 2017 Final](/Data/Machine-Learning/final2017_solutions.pdf)
-- [x][UNIVERSITY of PENNSYLVANIA CIS 520: Machine Learning; MCQ 2018 Final](/Data/Machine-Learning/final2018_solutions.pdf)
-- [x][UNIVERSITY of PENNSYLVANIA CIS 520: Machine Learning; MCQ 2019 Final](/Data/Machine-Learning/final2019_solutions.pdf)
-- [x][UNIVERSITY of PENNSYLVANIA CIS 520: Machine Learning; MCQ 2022 Final](/Data/Machine-Learning/final2022_solutions.pdf)
-- [x][UNIVERSITY of PENNSYLVANIA CIS 520: Machine Learning; MCQ 2018 MidTerm](/Data/Machine-Learning/midterm2018_solutions.pdf)
-- [x][UNIVERSITY of PENNSYLVANIA CIS 520: Machine Learning; MCQ 2019 MidTerm](/Data/Machine-Learning/midterm2019_solutions.pdf)
-- [x][UNIVERSITY of PENNSYLVANIA CIS 520: Machine Learning; MCQ 2022 MidTerm](/Data/Machine-Learning/midterm2022_solutions.pdf)
-- [ ][Regression problems from IIT Dharwad EE 405: Patter Recognition and Machine Learning](/Data/Machine-Learning/python-practice-problems/regression)
+- [UNIVERSITY of PENNSYLVANIA CIS 520: Machine Learning; MCQ 2017 Final](/Data/Machine-Learning/final2017_solutions.pdf)
+- [UNIVERSITY of PENNSYLVANIA CIS 520: Machine Learning; MCQ 2018 Final](/Data/Machine-Learning/final2018_solutions.pdf)
+- [UNIVERSITY of PENNSYLVANIA CIS 520: Machine Learning; MCQ 2019 Final](/Data/Machine-Learning/final2019_solutions.pdf)
+- [UNIVERSITY of PENNSYLVANIA CIS 520: Machine Learning; MCQ 2022 Final](/Data/Machine-Learning/final2022_solutions.pdf)
+- [UNIVERSITY of PENNSYLVANIA CIS 520: Machine Learning; MCQ 2018 MidTerm](/Data/Machine-Learning/midterm2018_solutions.pdf)
+- [UNIVERSITY of PENNSYLVANIA CIS 520: Machine Learning; MCQ 2019 MidTerm](/Data/Machine-Learning/midterm2019_solutions.pdf)
+- [UNIVERSITY of PENNSYLVANIA CIS 520: Machine Learning; MCQ 2022 MidTerm](/Data/Machine-Learning/midterm2022_solutions.pdf)
+- [Regression problems from IIT Dharwad EE 405: Patter Recognition and Machine Learning](/Data/Machine-Learning/python-practice-problems/regression)
 
 ---
 
